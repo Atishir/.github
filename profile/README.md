@@ -1,6 +1,6 @@
 <div>
     <div align="center">
-        <a href="https://atishir.co"><img src="https://cdn.atishir.co/logo.png" alt="Atishir" height="200" /></a>
+        <a href="https://atishir.in"><img src="https://cdn.atishir.in/logo.png" alt="Atishir" height="200" /></a>
     </div>
     <div align="center">
         <h1>Atishir</h1>
